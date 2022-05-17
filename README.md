@@ -15,7 +15,7 @@ https://arbiscan.io/tx/0x0aea0ce036f36ad44a59bf953b7ae365bf4171212dc2e45a578ed04
 
 As the break rates were significantly higher than advertised (e.g. ~7.5% vs 18% for Tier 5), we will be looking to compensate all treasures broken during this period.
 
-This repo details the list of crafters and the treasures that were broken during the affected period.
+This repo details the list of affected crafters and their treasures that were broken during the affected period.
 
 The total number of treasures that were broken are listed in `total_breaks.json`
 
